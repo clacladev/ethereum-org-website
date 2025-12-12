@@ -924,6 +924,17 @@ const chains = [
     chain: "ETH",
   },
   {
+    name: "Edge",
+    infoURL: "https://www.edgex.exchange",
+    chainId: 3343,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "ETH",
+  },
+  {
     name: "Astar zkEVM",
     infoURL: "https://astar.network",
     chainId: 3776,
@@ -1463,6 +1474,17 @@ const chains = [
     chain: "ETH",
   },
   {
+    name: "Memento Mainnet",
+    infoURL: "",
+    chainId: 51888,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "Memento",
+  },
+  {
     name: "BirdLayer",
     infoURL: "https://www.dodochain.com",
     chainId: 53456,
@@ -1650,6 +1672,17 @@ const chains = [
     chain: "ETH",
   },
   {
+    name: "Cycle Network Mainnet Frigate",
+    infoURL: "https://www.cyclenetwork.io/",
+    chainId: 88688,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "ETH",
+  },
+  {
     name: "Nautilus Trition Chain",
     infoURL: "https://docs.nautchain.xyz",
     chainId: 91002,
@@ -1752,6 +1785,17 @@ const chains = [
     name: "Taiko Hekla",
     infoURL: "https://taiko.xyz",
     chainId: 167009,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "ETH",
+  },
+  {
+    name: "Taiko Hoodi",
+    infoURL: "https://taiko.xyz",
+    chainId: 167013,
     nativeCurrency: {
       name: "Ether",
       symbol: "ETH",
